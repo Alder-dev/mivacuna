@@ -90,7 +90,6 @@ $autoload['drivers'] = array();
 |	$autoload['helper'] = array('url', 'file');
 */
 $autoload['libraries'] = array('form_validation');
-$autoload['libraries'] = array('Mongodb');
 $autoload['helper'] = array('url');
 
 /*
